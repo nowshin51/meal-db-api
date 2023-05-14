@@ -34,4 +34,4 @@ const searchFood = () =>{
     searchField.value = '';
 }
 
-// loadmeal('potato');
+loadmeal('');
